@@ -15,8 +15,7 @@ Certifique-se de ter o seguinte software instalado em sua máquina antes de exec
 A tela de login é o ponto de entrada para o Sistema de Hotel, proporcionando acesso seguro e personalizado para os usuários autorizados.
 
 
-<img src="https://github.com/layla-lima/SistemaHotel/assets/129623575/62d5dfd6-a3b6-467e-b4e8-a6f80bad25eb" alt="Tela de Login" width="400"/>
-
+<img src="https://github.com/layla-lima/SistemaHotel/assets/129623575/c6546282-24c2-4454-b95b-8ac2af56947d" alt="Tela de Login" width="400"/>
 
 ## Configuração do Ambiente
 
