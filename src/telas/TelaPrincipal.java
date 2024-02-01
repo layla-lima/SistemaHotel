@@ -317,10 +317,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        // TODO add your handling code here:
-        teste1 tela = new teste1();
-        telaFundo.add(tela);
-        tela.setVisible(true);
+         
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jMenu5MouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu5MouseEntered
@@ -329,9 +326,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
     private void menuSairMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_menuSairMouseClicked
             // TODO add your handling code here:
-        teste2 tela = new teste2();
-        telaFundo.add(tela);
-        tela.setVisible(true);
+
     }//GEN-LAST:event_menuSairMouseClicked
 
     /**
